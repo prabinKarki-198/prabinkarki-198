@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Prabin Karki</h1>
 <h3 align="center">A passionate web dev learner from Nepal</h3>
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **React Js**
 
 - 📫 How to reach me **karkiprabin198@gmail.com**
 
