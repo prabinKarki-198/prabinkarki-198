@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prabin Karki</h1>
 <h3 align="center">Frontend Developer | UI/UX Enthusiast</h3>
 
-- 🔭 I’m currently working on designing **A SaaS platform (KrishiSahayog) for farmers in Nepal to provide weather updates, market prices, and buyer connections.**
-
 - 🌱 I’m currently learning **Frontend Development with React, and Tailwind CSS**
 
 - 👯 I’m looking to collaborate on **Frontend projects using React, Tailwind CSS, and UI/UX design.**
