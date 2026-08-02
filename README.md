@@ -48,5 +48,5 @@
 
 ### ✨ Fun Fact
 
-> I can design a perfect user interface, but my desk looks like a mess 😅
+> I can design a good user interface, but my desk looks like a trash 😅
 
